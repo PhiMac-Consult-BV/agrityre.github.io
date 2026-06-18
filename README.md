@@ -11,10 +11,10 @@ MTA-STS (Mail Transfer Agent Strict Transport Security) is an email security sta
 GitHub Pages serves the MTA-STS policy file at the required URL:
 
 ```
-https://mta-sts.phimac.be/.well-known/mta-sts.txt
+https://mta-sts.agrityre.be/.well-known/mta-sts.txt
 ```
 
-The custom domain `mta-sts.phimac.be` points to this GitHub Pages site, making the policy accessible to external mail servers.
+The custom domain `mta-sts.agrityre.be` points to this GitHub Pages site, making the policy accessible to external mail servers.
 
 ## Repository contents
 
