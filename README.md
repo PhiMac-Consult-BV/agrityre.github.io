@@ -1,4 +1,4 @@
-# phimac-support.github.io
+# agrityre.github.io
 
 This repository exists solely to serve the **MTA-STS policy** for `phimac.be` via GitHub Pages.
 
@@ -19,9 +19,9 @@ The custom domain `mta-sts.phimac.be` points to this GitHub Pages site, making t
 ## Repository contents
 
 - [`.well-known/mta-sts.txt`](.well-known/mta-sts.txt) — the MTA-STS policy file
-- [`CNAME`](CNAME) — contains the custom domain (`mta-sts.phimac.be`) used by GitHub Pages; rename to `CNAME` (no extension) to activate it
+- [`CNAME`](CNAME) — contains the custom domain (`mta-sts.agrityre.be`) used by GitHub Pages; rename to `CNAME` (no extension) to activate it
 - [`_config.yml`](_config.yml) — Jekyll config to ensure the `.well-known` directory is included
 
 ## Do not modify
 
-This repository should not be used for anything other than hosting the MTA-STS policy. Changes to the policy file may affect email delivery for `phimac.be`.
+This repository should not be used for anything other than hosting the MTA-STS policy. Changes to the policy file may affect email delivery for `agrityre.be`.
